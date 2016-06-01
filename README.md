@@ -9,5 +9,5 @@ A collection of scripts illustrating various game building concepts using the py
 
 ## Learning Resources
 
-* [Programming Arcade Games With Python and Pygame][http://programarcadegames.com]
-* [Pygame][http://pygame.org]
+* [Programming Arcade Games With Python and Pygame](http://programarcadegames.com)
+* [Pygame](http://pygame.org)
